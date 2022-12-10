@@ -76,7 +76,6 @@ h1 {
 }
 .description {
   width: 100%;
-  float: left;
   letter-spacing: 1px;
   margin-bottom: 1rem;
 }
@@ -87,25 +86,6 @@ h1 {
 }
 .image-one {
   width: 80%;
-  float: left;
   margin-right: 50%;
   margin-bottom: 50px;
-}
-
-/* ---- ---- media ---- ---- */
-
-@media (min-width: 1280px) {
-  .description {
-    width: 50%;
-  }
-}
-
-@media (min-width: 600px) {
-  .hero-text {
-    width: 50%;
-  }
-  .image-one {
-    width: 100%;
-    padding-bottom: 20px;
-  }
 }
