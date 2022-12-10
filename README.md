@@ -10,9 +10,11 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-![Underconstraction](readme/underconstruction.gif)
-
 ---
+
+[Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/gOKyGYm)
+
+![gifscreen.gif](readme/gif.webp)
 
 ## Info
 
